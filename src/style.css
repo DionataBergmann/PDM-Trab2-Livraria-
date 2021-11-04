@@ -1,0 +1,61 @@
+.card-img-top{
+    max-width: 600px;
+    max-height: 400px;
+}
+.container{
+    margin-top: 15px;
+}
+
+.Botao{
+    background-color: #4e5d6c;
+    color: white;
+    font-size: large;
+    align-items: center;
+    text-align: center;
+    margin-left: 4px;
+}
+
+.input-group{
+    margin-top: 4px;
+    margin-left: 4px;
+    margin-right: 4px;
+}
+
+.input-group-prepend{
+    margin-left: 4px;
+    margin-right: 4px;
+}
+
+.input-group-text{
+    margin-left: 4px;
+    margin-right: 4px;
+}
+
+.container{
+    width: 90%;
+    height: 90%;
+    border-radius: 20px;
+}
+
+
+.Dados{
+    background-color: #4e5d6c;
+    color: inherit;
+    /* color: white; */
+    font-size: large;
+    /* align-items: center;
+    text-align: center; */
+    text-decoration: none;
+    margin-left: 1310px;
+    
+}
+
+.link{
+    text-decoration: none;
+   color: white !important;
+}
+
+.searchBar{
+    margin-top: 40px;
+    margin-bottom: 40px;
+}
